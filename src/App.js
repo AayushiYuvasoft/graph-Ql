@@ -70,6 +70,12 @@ function App() {
       <input name="email" value={formData.email} onChange={handleChange} />
       <input name="email" value={formData.email} onChange={handleChange} />
       <input name="email" value={formData.email} onChange={handleChange} />
+      <input name="email" value={formData.email} onChange={handleChange} />
+      <input name="email" value={formData.email} onChange={handleChange} />
+      <input name="email" value={formData.email} onChange={handleChange} />
+      <input name="email" value={formData.email} onChange={handleChange} />
+      <input name="email" value={formData.email} onChange={handleChange} />
+
       <button className='' onClick={hanldeSubmit}>Add</button>
     </>
   );
