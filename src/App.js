@@ -67,6 +67,9 @@ function App() {
     ))}
       <input name="name" value={formData.name} onChange={handleChange} />
       <input name="email" value={formData.email} onChange={handleChange} />
+      <input name="email" value={formData.email} onChange={handleChange} />
+      <input name="email" value={formData.email} onChange={handleChange} />
+      <input name="email" value={formData.email} onChange={handleChange} />
       <button className='' onClick={hanldeSubmit}>Add</button>
     </>
   );
