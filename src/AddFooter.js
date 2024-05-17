@@ -7,5 +7,4 @@ const AddFooter = () => {
     </div>
   )
 }
-
 export default AddFooter
