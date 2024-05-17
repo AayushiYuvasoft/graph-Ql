@@ -2,7 +2,9 @@ import React from 'react'
 
 const AddFooter = () => {
   return (
-    <div>AddFooter</div>
+    <div>AddFooter
+      <input type='text' readOnly/>
+    </div>
   )
 }
 
