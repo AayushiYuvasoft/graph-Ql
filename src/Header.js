@@ -4,18 +4,12 @@ const Header = () => {
   return (
     <div>
       <div>
-        <img alt="no-image"/>
+        <img src="" alt="no-image"/>
         <ul>
-        <li>Home</li>
-        <li>Services</li>
-        <li>Services</li>
-        <li>Services</li>
-        <li>Hello</li>
-        <li>Hello</li>
-        <li>Hello</li>
-        <li>main</li>
-        <li>code</li>
-        <li>hello</li></ul>
+          <li>Home</li>
+          <li>Services</li>
+          <li>Services</li>
+        </ul>
       </div>
     </div>
   )

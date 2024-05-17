@@ -5,5 +5,4 @@ const AddFooter = () => {
     <div>AddFooter</div>
   )
 }
-
 export default AddFooter

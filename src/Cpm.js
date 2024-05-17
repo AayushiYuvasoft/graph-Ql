@@ -2,7 +2,7 @@ import React from 'react'
 
 const Cpm = () => {
   return (
-    <div>Cpm
+    <div>
       <h1>sdfsh</h1>
     </div>
   )
